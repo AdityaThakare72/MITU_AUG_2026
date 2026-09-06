@@ -1,0 +1,33 @@
+{
+  "user_102": {
+    "name": "Gray",
+    "region": "AUS",
+    "level": 40,
+    "dex": [
+      "Warner",
+      "Watson",
+      "Gill"
+    ]
+    
+  },
+  "user_103": {
+    "name": "Rahul",
+    "region": "IND",
+    "level": 45,
+    "dex": [
+      "Jadeja",
+      "Johnson",
+      "Rick"
+    ]
+  },
+  "user_104": {
+    "name": "Tracy",
+    "region": "USA",
+    "level": 34,
+    "dex": [
+      "Brian",
+      "Gillchrist",
+      "Ponting"
+    ]
+  }
+}
